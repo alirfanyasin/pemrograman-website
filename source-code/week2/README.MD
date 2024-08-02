@@ -1,5 +1,5 @@
 # HTML Dasar
-HTML adalah Hypertext Markup Language atau sering di sebut bahasa markup.
+HTML adalah Hypertext Markup Language atau sering di sebut bahasa markup. HTML biasanya digunakan dalam pengembangan sebuah website dan merupkan pondasi awal dalam menentukan struktur atau tulang dari halaman web.
 
 
 ## Struktur Dasar HTML 
