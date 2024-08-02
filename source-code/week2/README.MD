@@ -7,6 +7,15 @@ Struktur utama dari HTML terdiri dari tag `<head>` dan tag `body`. di dalam tag 
 
 <img src="img/img-1.png"/>
 
-## Element pada HTML
+## Element HTML
 Element biasanya di tentukan dengan adanya tag pembukan (awal), isi content, tag penutup (akhir). silahkan perhatikan gambar di bawah
 <img src="img/img-2.png"/>
+
+
+## Tag dan Element HTML
+Inilah beberapa tag dan element HTML yang sering digunakan beserta fungsinya
+
+### Heading
+Befungsi untuk membuat judul sebuah konten
+<img src="img/img-3.png"/>
+
