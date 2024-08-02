@@ -25,7 +25,7 @@ Berfungsi untuk membuat paragraf <br>
 
 ### Hyperlink 
 Hyperlink atau `anchor` berfungsi untuk berpindah halaman secara internal atau eksternal <br>
-img src="img/img-6.png"/>
+<img src="img/img-6.png"/> <br>
 <b>Penjelasan : </b> <br>
 - Berpindah secara internal : yaitu berpindah ke halaman lain dengan mencantumkan nama file dari halaman tersebut
 - Berpindah secara eksternal : yaitu berpindah ke halaman lain dengan mencantumkan nama link atau URL dari website lain
