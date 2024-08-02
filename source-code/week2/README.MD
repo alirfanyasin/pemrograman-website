@@ -23,4 +23,11 @@ Befungsi untuk membuat judul sebuah konten <br>
 Berfungsi untuk membuat paragraf <br>
 <img src="img/img-5.png"/>
 
+### Hyperlink 
+Hyperlink atau `anchor` berfungsi untuk berpindah halaman secara internal atau eksternal <br>
+img src="img/img-6.png"/>
+<b>Penjelasan : </b> <br>
+- Berpindah secara internal : yaitu berpindah ke halaman lain dengan mencantumkan nama file dari halaman tersebut
+- Berpindah secara eksternal : yaitu berpindah ke halaman lain dengan mencantumkan nama link atau URL dari website lain
+
 
