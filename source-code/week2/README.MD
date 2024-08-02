@@ -3,4 +3,10 @@ HTML adalah Hypertext Markup Language atau sering di sebut bahasa markup.
 
 
 ## Struktur Dasar HTML 
+Struktur utama dari HTML terdiri dari tag `<head>` dan tag `body`. di dalam tag `<head>` biasanya berisi informasi penting seperti contohnya metadata, judul halaman dan source. Sedangkan tag `<body>` berisi informasi atau konten yang akan di tampilkan ke halaman website, contohnya header, paragraf, gambar, icon, input, dll. 
+
 <img src="img/img-1.png"/>
+
+## Element pada HTML
+Element biasanya di tentukan dengan adanya tag pembukan (awal), isi content, tag penutup (akhir). silahkan perhatikan gambar di bawah
+<img src="img/img-2.png"/>
