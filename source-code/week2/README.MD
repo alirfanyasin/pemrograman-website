@@ -19,3 +19,10 @@ Inilah beberapa tag dan element HTML yang sering digunakan beserta fungsinya
 Befungsi untuk membuat judul sebuah konten <br>
 <img src="img/img-3.png"/>
 
+### Paragraph
+Berfungsi untuk membuat paragraf <br>
+<img src="img/img-3.png"/>
+
+
+
+
