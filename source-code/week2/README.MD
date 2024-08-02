@@ -16,6 +16,11 @@ Element biasanya di tentukan dengan adanya tag pembukan (awal), isi content, tag
 Inilah beberapa tag dan element HTML yang sering digunakan beserta fungsinya
 
 ### Heading
-Befungsi untuk membuat judul sebuah konten
+Befungsi untuk membuat judul sebuah konten <br>
 <img src="img/img-3.png"/>
+
+### Paragraph
+Berfungsi untuk membuat paragraf <br>
+<img src="img/img-3.png"/>
+
 
