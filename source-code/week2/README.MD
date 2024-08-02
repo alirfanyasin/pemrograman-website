@@ -21,6 +21,6 @@ Befungsi untuk membuat judul sebuah konten <br>
 
 ### Paragraph
 Berfungsi untuk membuat paragraf <br>
-<img src="img/img-4.png"/>
+<img src="img/img-5.png"/>
 
 
